@@ -1,0 +1,14 @@
+.wrapper {
+  background: url('https://www.buyerads.com/files/images/main/header-bkg-crop2-mobile3.gif');
+  background-size: cover;  
+  height: 80%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
+
+
+

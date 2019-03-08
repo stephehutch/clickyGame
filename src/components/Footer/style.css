@@ -1,0 +1,33 @@
+.foot {
+  background-color:  rgb(58, 202, 228);
+  height: 100px;
+  width: 100%;
+  padding-top: 40px;
+}
+
+.text {
+  text-align: center;
+  color: white;
+   margin: auto;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:active {
+  color: black;
+  text-decoration: none;
+}

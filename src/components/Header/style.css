@@ -1,0 +1,39 @@
+.head {
+  background-color: rgb(58, 202, 228);
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  margin-top: 0px;
+}
+  
+.title {
+  text-align: left;
+  color: white;
+}
+
+ul {
+  margin:0;
+  padding:0
+  }
+
+li {
+  display:inline-block;
+  padding:26px 0;
+  width:33.3%;
+  text-align:center;
+  }
+
+button {
+  background-color: rgb(226, 181, 59); 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+button:hover {
+  font-weight: bold;
+}
