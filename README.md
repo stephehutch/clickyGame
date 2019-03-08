@@ -1,5 +1,5 @@
 # clickyGame
-Clicky Game was built with react. 
+Clicky Game was built with react. https://testreactapp--stephehutch.repl.co/ 
 
 ### How to Play
 Tap or click the character icons. If you forget which icons you have already clicked and click on one a second time, you will lose. Click reset to keep you high score and start over. 
